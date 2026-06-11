@@ -1,0 +1,1 @@
+package khs; public class KHS { public static void main(String[] args){} }
