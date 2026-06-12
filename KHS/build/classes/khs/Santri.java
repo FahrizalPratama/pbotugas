@@ -1,1 +1,0 @@
-package khs; public class Santri {}
